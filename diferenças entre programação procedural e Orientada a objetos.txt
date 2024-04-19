@@ -1,0 +1,5 @@
+Exercício Ebac pt1: Diferenças entre programação procedural e orientada a objetos
+
+Procedural - É baseada em funções, blocos de código que podem se repetir em algumas partes do programa, utilizando instruções condicionais e sequenciais. 
+
+Orientada a Objetos - O código é organizado em objetos, e cada objeto é representado por uma clase, que permite até comunicação entre eles, função essa que deixa o código bem mais adaptável à certas coisas.  
