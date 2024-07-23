@@ -1,0 +1,36 @@
+// tarefa ebac calculo média de 4 notas
+
+package tarefacalculomedia;
+
+import java.util.Scanner;
+
+public class TarefacalculoMedia {
+	
+	public static void main (String []args) {
+	
+		Scanner scan = new Scanner (System.in);
+		
+		
+		System.out.println("Escreva a primeira nota:");
+		double nota1 = scan.nextDouble();
+		
+		System.out.println("Escreva a segunda nota:");
+		double nota2 = scan.nextDouble();
+				
+		System.out.println("Escreva a terceira nota:");
+		double nota3 = scan.nextDouble();
+		
+		System.out.println("Escreva a quarta nota:");
+		double nota4 = scan.nextDouble();
+		
+		double media = (nota1 + nota2 + nota3 + nota4) / 4;
+		
+		System.out.println("A média é" + media);
+		
+		
+		
+		
+		
+		
+}
+} 
